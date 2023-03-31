@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/eco-conception-hackaton/static/css/main.bfd76eb5.css",
-    "main.js": "/eco-conception-hackaton/static/js/main.d6cf7309.js",
+    "main.css": "/eco-conception-hackaton/static/css/main.c7a7102b.css",
+    "main.js": "/eco-conception-hackaton/static/js/main.da8570d5.js",
     "static/js/787.8b91c675.chunk.js": "/eco-conception-hackaton/static/js/787.8b91c675.chunk.js",
-    "static/media/Inter-Bold.ttf": "/eco-conception-hackaton/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
-    "static/media/Inter-SemiBold.ttf": "/eco-conception-hackaton/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
-    "static/media/Inter-Medium.ttf": "/eco-conception-hackaton/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
     "static/media/SourceSerifPro-Italic.ttf": "/eco-conception-hackaton/static/media/SourceSerifPro-Italic.90931d6ad253cd8de8e4.ttf",
-    "static/media/Parisienne-Regular.ttf": "/eco-conception-hackaton/static/media/Parisienne-Regular.82a775783a33ce6f911d.ttf",
     "index.html": "/eco-conception-hackaton/index.html",
-    "main.bfd76eb5.css.map": "/eco-conception-hackaton/static/css/main.bfd76eb5.css.map",
-    "main.d6cf7309.js.map": "/eco-conception-hackaton/static/js/main.d6cf7309.js.map",
+    "main.c7a7102b.css.map": "/eco-conception-hackaton/static/css/main.c7a7102b.css.map",
+    "main.da8570d5.js.map": "/eco-conception-hackaton/static/js/main.da8570d5.js.map",
     "787.8b91c675.chunk.js.map": "/eco-conception-hackaton/static/js/787.8b91c675.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfd76eb5.css",
-    "static/js/main.d6cf7309.js"
+    "static/css/main.c7a7102b.css",
+    "static/js/main.da8570d5.js"
   ]
 }
