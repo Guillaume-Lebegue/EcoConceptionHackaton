@@ -29,7 +29,7 @@ export default function FirstPicture() {
     })
     return <picture className='contain'>
       {sources}
-      <img src={getUrl(WIDTH[WIDTH.length - 1], currentImage)} alt="Exposition choosed randomly" />
+      <img loading='lazy' src={getUrl(WIDTH[WIDTH.length - 1], currentImage)} alt="Exposition choosed randomly" />
     </picture>
   }
 
