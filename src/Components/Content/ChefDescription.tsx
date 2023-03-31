@@ -23,7 +23,7 @@ export default function ChefDescription() {
           <picture>
             <source media="(min-width: 1920px)" srcSet={process.env.PUBLIC_URL + "/chef/le-chef-2-752.jpg"} />
             <source media="(min-width: 1280px)" srcSet={process.env.PUBLIC_URL + "/chef/le-chef-2-501.jpg"} />
-            <img loading='lazy' src={process.env.PUBLIC_URL + "/chef/le-chef-1-334.jpg"} alt="Chef making a cake" />
+            <img loading='lazy' src={process.env.PUBLIC_URL + "/chef/le-chef-2-334.jpg"} alt="Chef making a cake" />
           </picture>
         </div>
       </div>
